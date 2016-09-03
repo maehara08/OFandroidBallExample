@@ -1,0 +1,60 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:2:1-31:12
+	xmlns:android
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:3:5-51
+	android:versionName
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml
+		INJECTED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:6:5-45
+uses-sdk
+ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:8:5-10:41
+MERGED from [androidBallExample:ofAndroidLib:unspecified] /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/build/intermediates/exploded-aar/androidBallExample/ofAndroidLib/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:10:9-38
+		INJECTED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml
+		INJECTED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:9:9-34
+		INJECTED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml
+		INJECTED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:12:5-97
+	android:name
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:12:22-78
+application
+ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:14:5-29:19
+	android:label
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:17:9-45
+	android:theme
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:19:9-40
+	android:hardwareAccelerated
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:15:9-43
+activity#cc.openframeworks.androidBallExample.OFActivity
+ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:22:13-45
+	android:configChanges
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:22:47-93
+	android:name
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:21:13-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/AndroidManifest.xml:26:27-74

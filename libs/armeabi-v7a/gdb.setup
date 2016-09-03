@@ -1,0 +1,7 @@
+set solib-search-path /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/obj/local/armeabi-v7a:/Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/libs/armeabi-v7a
+set sysroot /Users/riku/OpenFrameworks/android-ndk-r10e/platforms/android-19/arch-x86/
+directory /Users/riku/OpenFrameworks/android-ndk-r10e/platforms/android-19/arch-arm/usr/include
+directory /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/src
+directory /Users/riku/OpenFrameworks/android-ndk-r10e/sources/cxx-stl/system
+directory /Users/riku/OpenFrameworks/of_v0.9.3_android_release/apps/myApps/androidBallExample/libs/armeabi-v7a
+
